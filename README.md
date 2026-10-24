@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Иван 👋
+# Привет, я Дмитрий 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+разработчик;Люблю+чистый+код+и+красивые+решения;Открыт+к+интересным+проектам)](https://git.io/typing-svg)
 
@@ -8,10 +8,9 @@
 
 ### О себе
 
-- 🔭 Сейчас работаю над пет-проектами на Python и Go  
-- 🌱 Изучаю Kubernetes и распределённые системы  
-- 💬 Люблю обсуждать архитектуру и оптимизации  
-- 📫 Написать мне: [Telegram](https://t.me/yourusername) · [Email](mailto:you@email.com)
+- 🔭 Сейчас работаю над пет-проектами на HTML, CSS и JS  
+- 🌱 Изучаю углубленный JS  
+- 💬 Люблю обсуждать модельки и оптимизации  
 
 ---
 
