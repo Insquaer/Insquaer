@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Insquaer/main/banner.png" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/Insquaer/Insquaer/main/banner.png" width="100%" alt="banner" />
 
 # Привет, я Дмитрий 👋
 
