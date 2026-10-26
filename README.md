@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Insquaer/Insquaer/main/banner.jpg" width="800" alt="banner" />
-
 # Привет, я Дмитрий 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Делаю+веб+с+3D+и+интерактивом;HTML+%2B+CSS+%2B+JS+%2B+Three.js;Люблю+игры+и+необычные+решения)](https://git.io/typing-svg)
